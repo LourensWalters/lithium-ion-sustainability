@@ -1,0 +1,41 @@
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+python-dotenv
+
+PyMySQL
+awswrangler
+numpy
+pandas
+scipy
+tensorflow-gpu
+matplotlib
+seaborn
+scikit-learn
+lxml
+beautifulsoup4
+soupsieve
+pip
+wheel
+cryptography
+keyring
+pytz
+botocore
+boto3
+s3transfer
+jmespath
+pg8000
+scramp
+pyarrow
+cffi
+python-dateutil
+urllib3
+certifi
+setuptools
+absl
