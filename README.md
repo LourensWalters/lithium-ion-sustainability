@@ -4,8 +4,6 @@ Battery Cycle Life Prediction
 This project is focused on the prediction of battery cycle life. The concept derives from a recent paper (published 
 in Nature) called [Data-driven prediction of battery cycle life before capacity degradation](https://www.nature.com/articles/s41560-019-0356-8) by Kristen A. Severson et. al. 
 
-The following article on Medium: [Predicting Battery Lifetime with CNNs](https://towardsdatascience.com/predicting-battery-lifetime-with-cnns-c5e1faeecc8f) replicated the work done in the paper Severson et. al., but used CNNs instead of Elastic Nets. 
-
 The code for the data extraction component of the Nature article (not included in the Medium article code) is available 
 here: 
 
